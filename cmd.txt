@@ -1,0 +1,12 @@
+python ../ezCon.py  0-defaultKS240314_00.txt  10--240423_19.txt 10--240424_00.txt 20--240422_18.txt 20--240423_00.txt 20-defaultKS240312_00.txt 30--m--240428_13b.txt 30--m--240429_00.txt 40--240412_20b.txt 40--240413_00.txt 40--240418_21.txt 40--240419_00.txt 
+
+
+python ../ezCon.py 50--240417_20.txt 50--240418_00.txt 60--240416_20b.txt 60--240417_00.txt 70--240416_00b(trimmed-after)b.txt 70--240416_00b-chopped-off.txt 
+
+python ../ezCon.py 80--240413_21.txt 80--240414_00.txt 90--m--240426_20.txt 90--m--240427_00.txt 90--m--240427_01b(S=300+).txt 90--m--240428_00.txt 
+
+python ../ezCon.py 70--240416_00.txt 70--240415_20.txt
+
+
+
+d: && cd D:\Old && python ../ezSkyOld.py 40--240419_00.ezb 90--m--240428_00.ezb 70--240415_20.ezb 60--240417_00.ezb
